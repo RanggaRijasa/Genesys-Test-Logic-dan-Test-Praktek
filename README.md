@@ -6,7 +6,7 @@ Instalasi & Konfigurasi
 
 ```bash
 git clone https://github.com/RanggaRijasa/Genesys-Test-Logic-dan-Test-Praktek.git
-cd Genesys-Test-Logic-dan-Test-Praktek
+cd StockInventory
 ```
 
 2. Instal Dependency Laravel & Frontend
