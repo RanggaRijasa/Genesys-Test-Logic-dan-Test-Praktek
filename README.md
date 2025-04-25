@@ -1,4 +1,4 @@
-Stock Inventory App - Genesys Test
+Stock Inventory Web - Genesys Test
 
 Instalasi & Konfigurasi
 
