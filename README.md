@@ -64,7 +64,7 @@ http://127.0.0.1:8000
 
 Reset Data (Opsional)
 
-Gunakan ini jika kamu ingin mereset isi database:
+Gunakan ini untuk mereset isi database:
 
 ```sql
 DELETE FROM purchases;
